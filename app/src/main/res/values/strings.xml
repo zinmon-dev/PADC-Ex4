@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PADC-Ex4</string>
+    <string name="action_settings">Settings</string>
+    <string name="linkedin_data">Zin Mon
+    Web developer in myanmar
+    </string>
+    <string name="padc_linkedin">PADC_Linkedin</string>
+    <string name="leftmenu_padc_linked">PADC_Linkedin</string>
+    <string name="leftmenu_padc_job">PADC_Jobsearch</string>
+    <string name="leftmenu_padc_pulse">PADC_Pulse</string>
+    <string name="leftmenu_padc_cinema">PADC_ရုပ်ရှင်</string>
+    <string name="leftmenu_padc_winzin">PADC_၀န်ဇင်း</string>
+</resources>
