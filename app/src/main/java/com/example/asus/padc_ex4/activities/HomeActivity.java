@@ -71,15 +71,6 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         Menu leftMenu = navigationView.getMenu();
         navigationView.setNavigationItemSelectedListener(this);
 
-        ImageView imageView = (ImageView) findViewById(R.id.iv_setting);
-//        imageView.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Toast.makeText(getApplicationContext(), "Clicked Second Image",
-//                        Toast.LENGTH_SHORT).show();
-//            }
-//        });
-
 
     }
 

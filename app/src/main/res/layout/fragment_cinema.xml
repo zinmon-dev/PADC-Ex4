@@ -28,8 +28,8 @@
                 android:textSize="24dp"/>
             <Button
                 android:id="@+id/btn_detail"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="80dp"
+                android:layout_height="35dp"
                 android:text="DETAILS"
                 android:layout_below="@+id/tv_cinema_title"
                 android:layout_marginTop="16dp"
@@ -57,7 +57,8 @@
             android:id="@+id/tv_story"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Story"/>
+            android:text="Story"
+            android:textSize="18dp"/>
         <TextView
             android:id="@+id/tv_cinema_content"
             android:layout_width="wrap_content"
@@ -66,6 +67,7 @@
             android:layout_below="@+id/tv_story"
             android:layout_marginTop="8dp"/>
         <TextView
+            android:id="@+id/tv_readmore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Read More"
@@ -94,7 +96,8 @@
                 android:id="@+id/tv_showing"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Now Showing in"/>
+                android:text="Now Showing in"
+                android:textSize="16dp"/>
              <TextView
                 android:id="@+id/tv_planet"
                 android:layout_width="wrap_content"

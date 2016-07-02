@@ -40,16 +40,19 @@
             <Button
                 android:id="@+id/btn_buy"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="35dp"
                 android:text="BUY"
                 android:layout_below="@id/tv_winzin"
-                android:layout_marginTop="32dp"/>
+                android:layout_marginTop="32dp"
+                android:background="@drawable/button_bg_rounded_cornor"/>
             <Button
                 android:id="@+id/btn_sample"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="35dp"
                 android:text="SAMPLE"
-                android:layout_below="@id/btn_buy"/>
+                android:layout_below="@id/btn_buy"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_bg_rounded_cornor"/>
         </RelativeLayout>
     </LinearLayout>
     <TextView
